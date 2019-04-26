@@ -3,8 +3,8 @@
 3.  Complete 10 questions on the respiratory system. (Rachel) - DONE.
 4.  Complete 10 questions on the circulatory system. (Yasmin) - DONE.
 5.  Complete 10 questions on the digestive system.  (Yasmin) - DONE.
-6.  Complete 10 questions on the endocrine system.  (Yasmin) - 
-7.  Complete 10 questions on the immune system.  (Yasmin) - 
+6.  Complete 10 questions on the endocrine system.  (Yasmin) - DONE.
+7.  Complete 10 questions on the immune system.  (Yasmin) - DONE.
 8.  Complete 10 questions on the lymphatic system.  (Rachel)  - DONE.
 9.  Complete 10 questions on the nervous system.  (Yasmin) - 
 10. Complete 10 questions on the muscular system.  (Rachel) -  DONE.
